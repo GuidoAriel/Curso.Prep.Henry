@@ -1,0 +1,25 @@
+1- Variables
+Una variable es una forma de almacenar algo que podemos llegar a usar en otro momento. Se puede configurar o restablecer.
+Para crear una variable, utilizamos la palabra clave:  "VAR".
+
+2- Strings
+Son bloques de texto o palabras que siempre van encerrados entre comillas.-
+
+3- Funciones
+Son tipos particulares de Objetos, llamados invocables, y tiene las mismas propiedades que cualquier objeto.
+Sirven para calcular y modificar, un conjunto de variables.-
+Siempre comienzan con la palabra "function". Luego el nombre de la función, para describir que "hace" la misma.
+Una función siempre necesita paréntesis para ejecutarse.
+Las mismas se componen de argumentos.-
+
+Argumentos (Return)
+Son los datos que componen la función. Se pueden agregar varios argumentos, agregando ",".-
+Uno de ellos es el "return", que sirve para devolver un resultado a la función, como por ejemplo la suma de dos números. 
+
+5- Declaraciones (If)
+Una declaración es una afirmación o valor, que le damos a una variable. 
+El "If" es un condicional que sirve para realizar unas u otras operaciones en función de una declaración. 
+
+6- Valores Booleanos
+Es un concepto que alimenta el código binario y el núcleo de las computadoras. Tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso. En Javascript usamos booleanos para significar verdadero o falso.
+
