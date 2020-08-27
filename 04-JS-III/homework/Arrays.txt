@@ -1,0 +1,5 @@
+Arreglos
+
+1 - Array
+Es una lista de elementos ordenados. Los mismos pueden contener cualquier tipo de datos que vimos antes: 
+"strings", "números", "Booleanos", etc. Incluso, puede contener elementos que sea un arreglo.
